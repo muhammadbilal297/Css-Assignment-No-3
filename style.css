@@ -6,12 +6,14 @@ h1{
     text-align: center;
     background-color: skyblue;
     color:blue;
+    opacity: inherit;
 }
 h2{
     text-decoration: underline;
     text-align: right;
     background-color: chartreuse;
     text-transform: capitalize;
+    opacity: 50px;
 }
 ul{
     text-decoration: line-through;
