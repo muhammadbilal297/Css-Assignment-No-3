@@ -1,0 +1,25 @@
+body{
+    background-color: dimgrey;
+}
+h1{
+    text-transform:uppercase;
+    text-align: center;
+    background-color: skyblue;
+    color:blue;
+}
+h2{
+    text-decoration: underline;
+    text-align: right;
+    background-color: chartreuse;
+    text-transform: capitalize;
+}
+ul{
+    text-decoration: line-through;
+    color: white;
+}
+p{
+    @import url('https://fonts.googleapis.com/css2?family=Blinker:wght@100;200;300;400;600;700;800;900&family=Encode+Sans+Expanded:wght@100;200;300;400;500;600;700;800;900&family=Rozha+One&display=swap');
+    font-family: "Encode Sans Expanded", sans-serif;
+  font-weight: 100;
+}
+    
